@@ -9,6 +9,6 @@ homepage: http://github.com/osteele/dart-tonic
 environment:
   sdk: '>=1.1.1'
 dependencies:
-  collection: ">=0.9.1 <0.10.0"
+  collection: ">=0.9.1"
 dev_dependencies:
   unittest: '>=0.10.0 <0.11.0'
